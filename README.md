@@ -3,7 +3,7 @@
 convert byte size into human readable format in Go.
 
 ## Download
-`go get github.com/issmeftah/bprint`
+`go get github.com/twiny/bprint`
 
 ## Example
 
@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/issmeftah/bprint"
+	"github.com/twiny/bprint"
 )
 
 func main() {
